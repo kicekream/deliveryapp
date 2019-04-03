@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "user": "mosh",
+    "parcelName": "olabisi",
+    "status": "On transit"
+  },
+  {
+    "id": 2,
+    "user": "mosh",
+    "parcelName": "olabii",
+    "status": "On transit"
+  },
+  {
+    "id": 3,
+    "user": "mosh",
+    "parcelName": "Phone",
+    "status": "On transit"
+  },
+  {
+    "id": 4,
+    "user": "soph",
+    "parcelName": "laptop",
+    "status": "On transit"
+  },
+  {
+    "id": 5,
+    "user": "soph",
+    "parcelName": "Gas cooker",
+    "status": "On transit"
+  },
+  {
+    "id": 6,
+    "user": "soph",
+    "parcelName": "Rechargeable fan",
+    "status": "Cancelled"
+  },
+  {
+    "id": 7,
+    "user": "icekream",
+    "parcelName": "Lamborghini",
+    "status": "On transit"
+  },
+  {
+    "id": 8,
+    "user": "icekream",
+    "parcelName": "Ford Mustang",
+    "status": "On transit"
+  }
+]
